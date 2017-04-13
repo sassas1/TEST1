@@ -7,6 +7,7 @@ public class TEST1{
 		System.out.println("world");
 		System.out.println("java");
 		System.out.println("smc");
+		System.out.println("class");
 
 
 
